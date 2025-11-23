@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Akshay 👋</h1>
-<h3 align="center">Full-Stack Developer • AI & Data Science Enthusiast</h3>
+<h3 align="center">Full-Stack MERN Developer • Software Developer • Designer • Tech Enthusiast  </h3>
 
 <br/>
 
@@ -12,56 +12,44 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Building full-stack applications using **MERN, Django & PHP**
-- 🤖 Interested in **AI, ML, Data Analytics & Automation**
-- 📊 Strong background in **DBMS, SQL, SDLC & Data Science**
-- 🌱 Currently learning **Next.js, Cloud & Advanced ML**
-- 💼 Open to freelance work + tech collaborations  
+- 💻 Full-Stack developer specializing in **MERN, Django & PHP**
+- 📊 Passionate about **Designing , Machine Learning & AI foundations**
+- 📱 Skilled in **Python, JavaScript, DBMS**
+- 🗄️ Strong understanding of **DBMS, SQL , Project Managment & SDLC**
+- 🚀 I love building real-world impactful projects  
+- 🌱 Currently improving in **Cloud, ML & Next.js**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php" />
-</p>
-
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### **Backend & Frameworks**
+### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql,django,python" />
 </p>
 
-### **Databases**
+### **Data / AI / Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,postman,figma" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-⭐ **Stress Detection via Twitter (Machine Learning)**  
-🔗 *ML-based stress prediction using NLP & Twitter data*
+### ⭐ **Stress Detection via Twitter (Machine Learning)**
+Uses ML algorithms to classify user tweets into stress/no-stress categories.
 
-⭐ **Doctor Appointment System (Django)**  
-🔗 *Full CRUD + authentication + admin panel*
+### ⭐ **Doctor Appointment System (Django)**
+A complete medical appointment booking system with authentication & admin panel.
 
-⭐ **Online Examination System (Django)**  
-🔗 *Secure online exams with results & dashboard*
-
-⭐ **Food Delivery App (MERN)**  
-🔗 *Modern MERN stack food-ordering platform*
+### ⭐ **Online Examination System (Django)**
+Secure online exam platform with auto-evaluation & role-based access.
 
 ---
 
