@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Akshay 👋</h1>
-<h3 align="center">Full-Stack MERN Developer • AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • AI & Data Science Enthusiast</h3>
 
 <br/>
 
@@ -12,45 +12,56 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I build full-stack web apps with **MERN**  
-- 🤖 Exploring **AI, Generative AI & automation**  
-- 💡 I love building real-world projects  
-- 🌱 Currently learning **Next.js + Cloud + ML basics**  
-- 💼 Open to freelance & collaboration  
+- 🔭 Building full-stack applications using **MERN, Django & PHP**
+- 🤖 Interested in **AI, ML, Data Analytics & Automation**
+- 📊 Strong background in **DBMS, SQL, SDLC & Data Science**
+- 🌱 Currently learning **Next.js, Cloud & Advanced ML**
+- 💼 Open to freelance work + tech collaborations  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Frontend**
+### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php" />
 </p>
 
-### **Backend**
+### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+### **Backend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
+⭐ **Stress Detection via Twitter (Machine Learning)**  
+🔗 *ML-based stress prediction using NLP & Twitter data*
+
+⭐ **Doctor Appointment System (Django)**  
+🔗 *Full CRUD + authentication + admin panel*
+
+⭐ **Online Examination System (Django)**  
+🔗 *Secure online exams with results & dashboard*
+
 ⭐ **Food Delivery App (MERN)**  
-🔗 *A complete MERN stack food delivery platform*
-
-⭐ **AI Chatbot with OpenAI**  
-🔗 *A chatbot using OpenAI API + React UI*
-
-⭐ **Full-Stack Vehicle Rental System**  
-🔗 *Admin panel, booking system & cloud deployment*
-
-(You can add project links later.)
+🔗 *Modern MERN stack food-ordering platform*
 
 ---
 
@@ -79,4 +90,4 @@
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!  
+### ⭐ If you like my work, consider giving a star to my repositories!
