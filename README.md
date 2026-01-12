@@ -1,23 +1,25 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Akshay 👋</h1>
-<h3 align="center">Full-Stack MERN Developer • Software Developer • Designer • Tech Enthusiast  </h3>
+<h3 align="center">
+MERN Full-Stack Developer • Software Engineer • UI/UX-Aware Builder • Tech Enthusiast
+</h3>
 
 <br/>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ayushsoni1010/ayushsoni1010/blob/main/assets/banner.gif" width="80%"/>
+  <img src="https://github.com/ayushsoni1010/ayushsoni1010/blob/main/assets/banner.gif" width="85%"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 💻 Full-Stack developer specializing in **MERN, Django & PHP**
-- 📊 Passionate about **Designing , Machine Learning & AI foundations**
-- 📱 Skilled in **Python, JavaScript, DBMS**
-- 🗄️ Strong understanding of **DBMS, SQL , Project Managment & SDLC**
-- 🚀 I love building real-world impactful projects  
-- 🌱 Currently improving in **Cloud, ML & Next.js**  
+- 💻 **MERN Full-Stack Developer** with experience in **MongoDB, Express, React, and Node.js**  
+- 🧠 Strong foundation in **Django, PHP, and Machine Learning basics**  
+- 📊 Passionate about **building scalable, real-world applications**  
+- 🗄️ Skilled in **DBMS, SQL, REST APIs, and SDLC practices**  
+- 🎨 Interested in **UI/UX design** for clean and user-centric interfaces  
+- 🌱 Currently learning **Cloud technologies, Next.js, and advanced ML concepts**
 
 ---
 
@@ -33,23 +35,26 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql,django,python" />
 </p>
 
-### **Data / AI / Tools**
+### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-### ⭐ **Stress Detection via Twitter (Machine Learning)**
-Uses ML algorithms to classify user tweets into stress/no-stress categories.
+### ⭐ **Food Delivery Application — MERN Stack**  
+A full-stack food delivery platform with **JWT authentication**, **role-based access**,  
+**order management**, **restaurant dashboards**, and **delivery tracking**.
 
-### ⭐ **Doctor Appointment System (Django)**
-A complete medical appointment booking system with authentication & admin panel.
+### ⭐ **Stress Detection via Twitter — Machine Learning**  
+An NLP-based ML system that analyzes tweets and classifies users into  
+**stress / no-stress categories** using trained datasets.
 
-### ⭐ **Online Examination System (Django)**
-Secure online exam platform with auto-evaluation & role-based access.
+### ⭐ **Online Examination System — Django**  
+A secure online exam platform with **automated evaluation**,  
+**role-based access**, and **admin management**.
 
 ---
 
@@ -72,8 +77,12 @@ Secure online exam platform with auto-evaluation & role-based access.
 ## 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshay-p-johnson-baa293309/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:akshayjohnson117@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/akshay-p-johnson-baa293309/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:akshayjohnson117@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
