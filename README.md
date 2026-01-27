@@ -1,7 +1,7 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Akshay 👋</h1>
+<h1 align="center">Hi, I'm Akshay P Johnson 👋</h1>
 <h3 align="center">
-MERN Full-Stack Developer • Software Engineer • UI/UX-Aware Builder • Tech Enthusiast
+MERN Full-Stack Developer • MCA Graduate • Backend-Focused Engineer
 </h3>
 
 <br/>
@@ -14,12 +14,12 @@ MERN Full-Stack Developer • Software Engineer • UI/UX-Aware Builder • Tech
 ---
 
 ## 🚀 About Me  
-- 💻 **MERN Full-Stack Developer** with experience in **MongoDB, Express, React, and Node.js**  
-- 🧠 Strong foundation in **Django, PHP, and Machine Learning basics**  
-- 📊 Passionate about **building scalable, real-world applications**  
-- 🗄️ Skilled in **DBMS, SQL, REST APIs, and SDLC practices**  
-- 🎨 Interested in **UI/UX design** for clean and user-centric interfaces  
-- 🌱 Currently learning **Cloud technologies, Next.js, and advanced ML concepts**
+- 💻 **MERN Full-Stack Developer** with hands-on experience in **MongoDB, Express.js, React.js, and Node.js**
+- 🧠 Strong working knowledge of **Django, PHP, and Machine Learning fundamentals**
+- 🔐 Experienced in building **secure REST APIs**, **JWT authentication**, and **role-based access control**
+- 🗄️ Solid understanding of **DBMS, SQL, database optimization, and SDLC practices**
+- 📊 Focused on **scalable, performance-driven real-world applications**
+- 🌱 Currently improving skills in **advanced backend patterns and system design**
 
 ---
 
@@ -27,17 +27,22 @@ MERN Full-Stack Developer • Software Engineer • UI/UX-Aware Builder • Tech
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,mysql,django,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,php,mysql,python" />
 </p>
 
-### **Tools & Platforms**
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -45,16 +50,19 @@ MERN Full-Stack Developer • Software Engineer • UI/UX-Aware Builder • Tech
 ## 📌 Featured Projects  
 
 ### ⭐ **Food Delivery Application — MERN Stack**  
-A full-stack food delivery platform with **JWT authentication**, **role-based access**,  
-**order management**, **restaurant dashboards**, and **delivery tracking**.
+A full-stack food delivery system with:
+- JWT-based authentication  
+- Role-based dashboards (Customer / Restaurant / Admin / Delivery Agent)  
+- Order management, delivery tracking, and admin controls  
+- Optimized APIs and database queries for scalability  
 
-### ⭐ **Stress Detection via Twitter — Machine Learning**  
-An NLP-based ML system that analyzes tweets and classifies users into  
-**stress / no-stress categories** using trained datasets.
+### ⭐ **Stress Detection via Twitter — Machine Learning & Django**  
+- NLP-based ML system to classify tweets into **stress / non-stress categories**
+- Built using trained datasets and Django backend integration
 
 ### ⭐ **Online Examination System — Django**  
-A secure online exam platform with **automated evaluation**,  
-**role-based access**, and **admin management**.
+- Secure exam platform with automated evaluation  
+- Role-based user management and admin controls  
 
 ---
 
@@ -87,4 +95,4 @@ A secure online exam platform with **automated evaluation**,
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you find my projects useful, feel free to star the repositories!
