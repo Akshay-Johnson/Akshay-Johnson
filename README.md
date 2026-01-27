@@ -1,8 +1,9 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Akshay P Johnson 👋</h1>
 <h3 align="center">
-MERN Full-Stack Developer • MCA Graduate • Backend-Focused Engineer
+Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Focused Engineer
 </h3>
+
 
 <br/>
 
