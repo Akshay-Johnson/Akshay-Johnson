@@ -90,15 +90,17 @@ A secure web-based examination platform.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Johnson&theme=radical" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Akshay-Johnson&show_icons=true&theme=radical&hide_border=true" 
+    alt="Akshay Johnson GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay-Johnson&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Johnson&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Johnson&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 
