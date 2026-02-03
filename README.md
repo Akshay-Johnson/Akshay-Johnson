@@ -1,26 +1,28 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Akshay P Johnson 👋</h1>
 <h3 align="center">
-Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Focused Engineer
+Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Oriented Engineer
 </h3>
-
 
 <br/>
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ayushsoni1010/ayushsoni1010/blob/main/assets/banner.gif" width="85%"/>
+  <img src="https://github.com/ayushsoni1010/ayushsoni1010/blob/main/assets/banner.gif" width="85%" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 💻 **MERN Full-Stack Developer** with hands-on experience in **MongoDB, Express.js, React.js, and Node.js**
-- 🧠 Strong working knowledge of **Django, PHP, and Machine Learning fundamentals**
-- 🔐 Experienced in building **secure REST APIs**, **JWT authentication**, and **role-based access control**
-- 🗄️ Solid understanding of **DBMS, SQL, database optimization, and SDLC practices**
-- 📊 Focused on **scalable, performance-driven real-world applications**
-- 🌱 Currently improving skills in **advanced backend patterns and system design**
+
+I am an **entry-level Full Stack Developer** with strong hands-on experience in **MERN Stack** and **Django**, primarily focused on **backend development, API design, and application security**.
+
+- 💻 Built real-world applications using **MongoDB, Express.js, React.js, Node.js**
+- 🧠 Working knowledge of **Django, PHP, and Machine Learning fundamentals**
+- 🔐 Implemented **JWT authentication**, **role-based access control (RBAC)**, and protected APIs
+- 🗄️ Strong understanding of **DBMS, SQL, MongoDB optimization, and schema design**
+- 📊 Focused on **scalable, performance-oriented backend systems**
+- 🌱 Currently learning **advanced backend patterns, system design, and API optimization**
 
 ---
 
@@ -36,12 +38,12 @@ Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Focused Engine
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,php,mysql,python" />
 </p>
 
-### **Languages**
+### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
 </p>
 
-### **Tools**
+### **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
@@ -51,19 +53,37 @@ Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Focused Engine
 ## 📌 Featured Projects  
 
 ### ⭐ **Food Delivery Application — MERN Stack**  
-A full-stack food delivery system with:
-- JWT-based authentication  
-- Role-based dashboards (Customer / Restaurant / Admin / Delivery Agent)  
-- Order management, delivery tracking, and admin controls  
-- Optimized APIs and database queries for scalability  
+A full-stack food delivery platform developed during my internship.
+
+**Key Features**
+- JWT-based authentication with **role-based access control**
+- Separate dashboards for **Customer, Restaurant, Admin, and Delivery Agent**
+- Order lifecycle management and delivery tracking
+- Optimized MongoDB queries and REST APIs for scalability
+
+**Tech Used:** MongoDB, Express.js, React.js, Node.js
+
+---
 
 ### ⭐ **Stress Detection via Twitter — Machine Learning & Django**  
-- NLP-based ML system to classify tweets into **stress / non-stress categories**
-- Built using trained datasets and Django backend integration
+An academic project focused on NLP and ML integration.
+
+- Classified tweets into **stress / non-stress categories**
+- Implemented preprocessing, model training, and prediction pipelines
+- Integrated ML model into a Django-based web application
+
+**Tech Used:** Python, Machine Learning, Django
+
+---
 
 ### ⭐ **Online Examination System — Django**  
-- Secure exam platform with automated evaluation  
-- Role-based user management and admin controls  
+A secure web-based examination platform.
+
+- Automated evaluation and result generation
+- Role-based access for **students and administrators**
+- Secure authentication and relational database design
+
+**Tech Used:** Django, Python, SQL
 
 ---
 
@@ -86,7 +106,7 @@ A full-stack food delivery system with:
 ## 📫 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshay-p-johnson-baa293309/" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-p-johnson" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:akshayjohnson117@gmail.com">
@@ -96,4 +116,4 @@ A full-stack food delivery system with:
 
 ---
 
-⭐ If you find my projects useful, feel free to star the repositories!
+⭐ If you find my projects useful, feel free to **star the repositories**!
