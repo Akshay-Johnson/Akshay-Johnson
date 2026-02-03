@@ -98,7 +98,7 @@ A secure web-based examination platform.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Johnson&layout=compact&theme=radical" />
+  <img src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/assets/banner.gif" width="85%" />
 </p>
 
 ---
