@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Akshay P Johnson 👋</h1>
 <h3 align="center">
-Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Oriented Engineer
+Entry-Level Full Stack Developer (MERN & Django) • MCA Graduate • Backend-Oriented
 </h3>
 
 <br/>
@@ -15,13 +15,12 @@ Full-Stack Developer (MERN & Django) • MCA Graduate • Backend-Oriented Engin
 
 ## 🚀 About Me  
 
-I am an **entry-level Full Stack Developer** with strong hands-on experience in **MERN Stack** and **Django**, primarily focused on **backend development, API design, and application security**.
+I am an **Entry-Level Full Stack Developer** with hands-on experience in **MERN Stack** and **Django**, primarily focused on **backend development, REST APIs, and web application security**.
 
 - 💻 Built real-world applications using **MongoDB, Express.js, React.js, Node.js**
-- 🧠 Working knowledge of **Django, PHP, and Machine Learning fundamentals**
-- 🔐 Implemented **JWT authentication**, **role-based access control (RBAC)**, and protected APIs
-- 🗄️ Strong understanding of **DBMS, SQL, MongoDB optimization, and schema design**
-- 📊 Focused on **scalable, performance-oriented backend systems**
+- 🔐 Implemented **JWT authentication**, **role-based access control (RBAC)**, and secured APIs
+- 🗄️ Strong understanding of **database design, MongoDB optimization, and SQL**
+- ⚙️ Experience building **dashboard-driven, multi-role applications**
 - 🌱 Currently learning **advanced backend patterns, system design, and API optimization**
 
 ---
@@ -30,7 +29,7 @@ I am an **entry-level Full Stack Developer** with strong hands-on experience in 
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
 </p>
 
 ### **Backend & Databases**
@@ -38,56 +37,60 @@ I am an **entry-level Full Stack Developer** with strong hands-on experience in 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,php,mysql,python" />
 </p>
 
-### **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp" />
-</p>
-
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-### ⭐ **Food Delivery Application — MERN Stack**  
+### ⭐ **DineX — Food Delivery Application (MERN Stack)**  
 A full-stack food delivery platform developed during my internship.
 
-**Key Features**
+**Highlights**
 - JWT-based authentication with **role-based access control**
 - Separate dashboards for **Customer, Restaurant, Admin, and Delivery Agent**
 - Order lifecycle management and delivery tracking
-- Optimized MongoDB queries and REST APIs for scalability
+- Optimized MongoDB queries and scalable REST APIs
 
-**Tech Used:** MongoDB, Express.js, React.js, Node.js
+**Tech:** MongoDB, Express.js, React.js, Node.js
 
 ---
 
-### ⭐ **Stress Detection via Twitter — Machine Learning & Django**  
-An academic project focused on NLP and ML integration.
+### ⭐ **MindSense — Stress Detection Platform (ML & Django)**  
+An academic project integrating NLP and machine learning.
 
 - Classified tweets into **stress / non-stress categories**
-- Implemented preprocessing, model training, and prediction pipelines
-- Integrated ML model into a Django-based web application
+- Implemented preprocessing, training, and prediction pipelines
+- Integrated ML models into a Django-based web application
 
-**Tech Used:** Python, Machine Learning, Django
+**Tech:** Python, Machine Learning, Django
 
 ---
 
-### ⭐ **Online Examination System — Django**  
+### ⭐ **TestSphere — Online Examination System (Django)**  
 A secure web-based examination platform.
 
 - Automated evaluation and result generation
 - Role-based access for **students and administrators**
 - Secure authentication and relational database design
 
-**Tech Used:** Django, Python, SQL
+**Tech:** Django, Python, MySQL
 
 ---
 
-## 📊 GitHub Stats  
+### ⭐ **JobPilot — Job Application Tracker**
+A Kanban-style job tracking platform.
+
+- Authentication and session management
+- CRUD operations using **Next.js server actions**
+- Drag-and-drop workflows with real-time state updates
+
+**Tech:** Next.js, MongoDB
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -104,8 +107,6 @@ A secure web-based examination platform.
 </p>
 
 ---
-
-
 
 ## 📫 Connect With Me  
 
